@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="build/.apt_generated"/>
+	<classpathentry kind="var" path="ANDROID_SDK/platforms/android-8/android.jar"/>
+	<classpathentry kind="var" path="ANDROID_SDK/add-ons/addon_google_apis_google_inc_8/libs/maps.jar"/>
+	<classpathentry kind="var" path="TITANIUM_MOBILE_SDK/android/titanium.jar"/>
+	<classpathentry kind="var" path="TITANIUM_MOBILE_SDK/android/js.jar"/>
+	<classpathentry kind="var" path="TITANIUM_MOBILE_SDK/android/kroll-apt.jar"/>
+	<classpathentry kind="var" path="TITANIUM_MOBILE_SDK/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="lib/deploygatesdk.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
